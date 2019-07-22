@@ -1,5 +1,0 @@
-salary=int(input("enter the salary:")
-if salary<0:
-	salary=-salary
-salary=salary+(salary80.1)
-print(f"salary - {salary}")

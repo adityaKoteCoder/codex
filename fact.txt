@@ -1,8 +1,0 @@
-#Program to write a factorial of a number
-
-num=int(intput("enter a number:"))
-fact=0
-if num>0:
-	for i in range(num,1,-1):
-	fact=fact*i
-print(f"Factorial of {num} is {fact}")

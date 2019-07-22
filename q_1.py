@@ -1,4 +1,3 @@
-#Program to check whether given number is even or odd
 import math
 
 num = int(input("enter the number"))
@@ -16,6 +15,3 @@ if is_prime:
 	print(f"{num} is a prime number")
 else:
 	print(f"{num} is a prime number")	
-
-
-
