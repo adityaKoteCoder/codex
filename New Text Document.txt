@@ -1,0 +1,12 @@
+ import random
+     random.randint(1,6)
+    dice=random.randint(1,6)
+    guess=int(input("enter the values b/w 1-6"))
+n=3
+while n<4:
+    if (guess==dice):
+        print("you choice is correct")
+    else:
+        print("Try again")
+print("sorry you have run out of choices")
+    

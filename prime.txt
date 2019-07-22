@@ -1,0 +1,16 @@
+#Proh=gram to check if a nuber is prime or not
+
+def is_prime(num):
+	if num<2:
+		return false
+	for i in range(2,num//2,1)
+		if num%i==0:
+			return False
+		return True
+Num=int(input("enter the number"))
+if is_prime(NUM)
+	print(f"{NUM} is a prime")
+else:
+	print(f"{NUM} is not a prime")
+	
+	
