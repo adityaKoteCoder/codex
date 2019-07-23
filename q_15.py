@@ -1,3 +1,4 @@
+#Incomplete
 import random as rn
 lst = []
 for i in range(1,101):

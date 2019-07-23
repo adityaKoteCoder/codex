@@ -1,4 +1,4 @@
-#Max and Min of Random numbers
+#Max and Min of Random numbers and dsisplay it
 import random as rn
 lst=[]
 for i in range(1,21):
