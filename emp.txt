@@ -1,0 +1,13 @@
+1.Lakshman,M.tech,80000,cse
+2.checkie,M.tech,80000,ise
+3.human,M.tech,80000,cse
+4.shaman,M.tech,80000,cse
+5.goku,M.tech,80000,cse
+6.vigita,M.tech,80000,ise
+7.kiritsuga,M.tech,80000,ise
+8.iris,M.tech,80000,cse
+9.iryasviel,M.tech,80000,cse
+10.saibha,M.tech,80000,ise
+11.krillan,M.tech,80000,cse
+12.putin,M.tech,80000,cse
+13.hippie,M.tech,80000,cse
